@@ -1,0 +1,17 @@
+X:1
+T:M-Tron Bass Part 2
+M:4/4
+L:1/8
+K:Am
+%%MIDI program 32
+%%MIDI channel 2
+%%MIDI gchordoff
+%%MIDI control 1 45
+%%MIDI control 7 100
+D,,2F,,2 A,,2D,,2 | G,,2B,,,2 D,,2G,,2 |
+%%MIDI control 1 55
+C,,2C,,2 E,,2G,,2 | A,,2A,,2 E,,2A,,2 |
+%%MIDI control 1 65
+F,,F,,F,,F,, A,,A,,C,C, | G,,G,,G,,G,, B,,,B,,,D,,D,, |
+%%MIDI control 1 50
+A,,8 | A,,,8 |

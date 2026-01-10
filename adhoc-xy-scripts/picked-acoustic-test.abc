@@ -1,0 +1,18 @@
+X:1
+T:Picked Acoustic XY Test
+M:4/4
+L:1/8
+K:Am
+%%MIDI program 25
+%%MIDI channel 1
+%%MIDI gchordoff
+%%MIDI bassprog 0
+%%MIDI chordprog 0
+%%MIDI control 1 20
+A,EAc eAEA | G,DGB dBDG |
+%%MIDI control 1 0
+F,2F,2 F,2F,2 | E,2E,2 E,2E,2 |
+%%MIDI control 1 30
+[A,CE]4 [CEG]4 | [G,BD]4 [DFA]4 |
+%%MIDI control 1 60
+e4 a4 | e'8 |

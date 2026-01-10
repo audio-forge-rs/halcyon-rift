@@ -1,0 +1,17 @@
+X:1
+T:M-Tron Bass - Folk Americana
+M:4/4
+L:1/8
+K:Am
+%%MIDI program 32
+%%MIDI channel 2
+%%MIDI gchordoff
+%%MIDI control 1 40
+%%MIDI control 7 100
+A,,2E,,2 A,,2E,,2 | G,,2D,,2 G,,2D,,2 |
+%%MIDI control 1 50
+F,,2C,,2 F,,2C,,2 | E,,2B,,,2 E,,2B,,,2 |
+%%MIDI control 1 60
+A,,2A,,2 C,,2C,,2 | G,,2G,,2 D,,2D,,2 |
+%%MIDI control 1 70
+A,,8 | A,,8 |
